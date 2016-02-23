@@ -1,0 +1,22 @@
+{
+  "name": "dom.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f2eMrWu/dom.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f2eMrWu/dom.js/issues"
+  },
+  "homepage": "https://github.com/f2eMrWu/dom.js#readme",
+  "devDependencies": {
+    "webpack": "^1.12.13"
+  }
+}
